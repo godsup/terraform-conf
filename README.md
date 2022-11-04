@@ -18,4 +18,4 @@ split (load is split 50/50 % between green and blue)
 
 green-90 (10% load to blue and 90% to green)
 
-green (100% load to blue)
+green (100% load to green)
