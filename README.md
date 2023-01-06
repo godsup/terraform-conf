@@ -1,3 +1,10 @@
+## Terraform blue - green deployment
+
+### Purpose of the deployment
+Blue-green deployments and rolling deployments (canary tests) allow you to release new software gradually, and identify and mitigate the potential blast radius of a failed software release. This allows you to release new software with near-zero downtime.
+
+### How to deploy
+
 1. Clone repo
 
 2. Configure AWS CLI
